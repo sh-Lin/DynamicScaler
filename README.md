@@ -1,9 +1,15 @@
 # DynamicScaler
 
+<video muted="muted" autoplay="autoplay" loop src=".assets/1746369040419-title.mp4" type="video/mp4">
+</video>
+</br>
+</br>
+
 ***CVPR 2025*** DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes
 
 *(\*Equal Contribution)* Jinxiu Liu\*, Shaoheng Lin\*, Yinxiao Li, Ming-Hsuan Yang 
 
+[Paper](.assets/DynamicScaler_CVPR25_paper.pdf) | [Project Page](https://dynamic-scaler.pages.dev) 
 
 ## Start
 
