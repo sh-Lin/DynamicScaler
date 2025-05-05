@@ -1,6 +1,6 @@
 # DynamicScaler
 
-<video muted="muted" autoplay="autoplay" loop src=".assets/1746369040419-title.mp4" type="video/mp4">
+<video muted="muted" autoplay="autoplay" loop src=".assets/title.mp4" type="video/mp4">
 </video>
 </br>
 </br>
