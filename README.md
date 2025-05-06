@@ -1,9 +1,12 @@
 # DynamicScaler
 
-<video muted="muted" autoplay="autoplay" loop src=".assets/title.mp4" type="video/mp4">
-</video>
-</br>
-</br>
+<div align="center">
+  
+  https://github.com/user-attachments/assets/3c5c6c06-26be-49c0-8221-40cd407ec07f
+
+  <small><i>Video compressed, better view and more results at our [Project Page](https://dynamic-scaler.pages.dev)</i></small>
+  
+</div>
 
 ***CVPR 2025*** DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes
 
