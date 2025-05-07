@@ -12,7 +12,7 @@
 
 *(\*Equal Contribution)* Jinxiu Liu\*, Shaoheng Lin\*, Yinxiao Li, Ming-Hsuan Yang 
 
-[Paper](.assets/DynamicScaler_CVPR25_paper.pdf) | [Project Page](https://dynamic-scaler.pages.dev) 
+[Paper](.assets/DynamicScaler_CVPR25_paper.pdf) | [Project Page](https://dynamic-scaler.pages.dev) | [Arxiv](https://arxiv.org/abs/2412.11100) 
 
 ## Start
 
